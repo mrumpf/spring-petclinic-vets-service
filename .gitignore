@@ -2,3 +2,11 @@
 .DS_Store
 *.iml
 target
+
+.dockerignore
+.draft-tasks.toml
+.draftignore
+Dockerfile
+*.log
+charts/
+draft.toml
